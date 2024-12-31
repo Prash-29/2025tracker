@@ -1,1 +1,1 @@
-export const taskList = ['Task 1', 'Task 2', 'Task 3']; // Static tasks
+export const taskList = ['Gym-1hr', 'BreakFast-1000cal', 'Hydration - 3lts' ,'Coding-1hr']; // Static tasks
