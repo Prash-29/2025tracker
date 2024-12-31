@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2025tracker/static/css/main.832a82d5.css",
+    "main.js": "/2025tracker/static/js/main.2dc5dc22.js",
+    "index.html": "/2025tracker/index.html",
+    "main.832a82d5.css.map": "/2025tracker/static/css/main.832a82d5.css.map",
+    "main.2dc5dc22.js.map": "/2025tracker/static/js/main.2dc5dc22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.832a82d5.css",
+    "static/js/main.2dc5dc22.js"
+  ]
+}
