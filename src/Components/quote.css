@@ -1,0 +1,20 @@
+.quoteStyle {
+    font-size: 24px;  /* Set the font size for the quote */
+    font-family: 'Arial', sans-serif;  /* Use a clean, modern font */
+    text-align: center;  /* Center the quote */
+    color: #2c3e50;  /* Dark text color for the quote */
+    background-color: #ecf0f1;  /* Light background color */
+    border-radius: 8px;  /* Rounded corners for a softer look */
+    padding: 20px;  /* Add padding around the quote */
+    max-width: 600px;  /* Limit the width */
+    margin: 40px auto;  /* Center the quote vertically and horizontally */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Light shadow for depth */
+    transition: transform 0.3s ease-in-out;  /* Smooth transition for hover effect */
+    background-color: #f0f8ff;  /* Alice Blue */
+    color: #2c3e50;  /* Dark Slate Gray */
+    font-weight: bolder;
+  }
+  
+  .quoteStyle:hover {
+    transform: scale(1.05);  /* Slightly increase size on hover */
+  }
