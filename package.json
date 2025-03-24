@@ -5,6 +5,7 @@
   "homepage": "https://Prash-29.github.io/2025tracker",
   "dependencies": {
     "cra-template": "1.2.0",
+    "generate-unique-id": "^2.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
