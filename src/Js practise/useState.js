@@ -1,6 +1,6 @@
 console.log('use state js entered');
 
-function useState(initialValue){
+function usestate(initialValue){
     const obj = {
         value : initialValue,
         setValue : function(newValue){
@@ -12,7 +12,7 @@ function useState(initialValue){
     return [()=>obj.value,obj.setValue.bind(obj)]
 }
 
-const [state,setState] = useState(0)
+const [state,setState] = usestate(0)
 console.log(state,setState)
 setState(5)
 console.log(state())
